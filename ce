@@ -7,7 +7,7 @@ local Settings = {
     Silent = {
         Enabled = true,
         Part = "HumanoidRootPart",
-        Pred = 0.136 ,
+        Pred = 0.159 ,
         ClosestPart = true,
     },
     FOV = {
